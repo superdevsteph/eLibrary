@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Built-By: stephaniemehraik
+Build-Jdk: 14.0.1
+Implementation-Title: applicationWebClient-proxies
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.eLibraryClient
+Implementation-URL: http://localhost:8080/applicationWebClient-proxies
+Created-By: Maven Integration for Eclipse
+
