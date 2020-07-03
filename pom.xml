@@ -40,6 +40,13 @@
 		<module>microserviceBdd-dao</module>
 		<module>microserviceBdd-model</module>
 		<module>microserviceBdd-web</module>
+		<module>applicationWebClient-business</module>
+		<module>../commons/libraries-model</module>
+		<module>applicationWebClient-proxies</module>
+		<module>applicationWebClient-web</module>
+		<module>batchMail-business</module>
+		<module>batchMail-proxies</module>
+		<module>../commons/libraries-model</module>
 	</modules>
 
 	<!-- =============================================================== -->
