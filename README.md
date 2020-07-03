@@ -14,3 +14,9 @@ Pour déployer l'application :
 Pour exécuter l'application : 
 
 - Taper l'url : http://localhost:8080/home sur un navigateur Internet
+
+Pour l'exécution du batch : 
+
+- Planifier une tâche qui lancera chaque jour la commande:
+
+Java -jar batchMail-business-0.0.1-SNAPSHOT.jar
