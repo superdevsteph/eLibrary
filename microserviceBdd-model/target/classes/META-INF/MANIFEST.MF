@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Built-By: stephaniemehraik
+Build-Jdk: 14.0.1
+Implementation-Title: microservice-model
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.eLibrary
+Implementation-URL: http://localhost:9001/microserviceBdd-model
+Created-By: Maven Integration for Eclipse
+
